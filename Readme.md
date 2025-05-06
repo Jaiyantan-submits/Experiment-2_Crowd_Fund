@@ -108,13 +108,17 @@ contract Crowdfunding {
 }
 ```
 # Expected Output:
-Users can contribute ETH to the campaign.
 
+1. The Crowdfunding contract at address 0xddaAd340b0f1Ef65169Ae5E41A8b10776a75482d received a contribution.
 
-If the goal is met, the creator can withdraw funds.
+2. The contribution transaction was successful and updated the contract's state with the transaction hash:- 0xcc1d6fa6a8b812446f937e50545f67b3ab3f1da5fad51aa0c23baed389a7be50.
 
+3. The amountRaised in the campaign struct has increased.
 
-If the goal is not met, contributors can claim a refund.
+4. If the goal is not met, contributors can claim a refund.
+
+![image22](https://github.com/user-attachments/assets/54249848-5f0c-4f84-a168-c048f1ea02f8)
+
 
 
 # High-Level Overview:
