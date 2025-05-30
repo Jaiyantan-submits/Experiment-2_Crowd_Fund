@@ -117,7 +117,11 @@ contract Crowdfunding {
 
 4. If the goal is not met, contributors can claim a refund.
 
-![image22](https://github.com/user-attachments/assets/54249848-5f0c-4f84-a168-c048f1ea02f8)
+# Output:
+
+![image](https://github.com/user-attachments/assets/3d960efd-35fe-471c-9bb5-349b069197c6)
+
+![image](https://github.com/user-attachments/assets/23f5af50-64a9-4d70-93ee-70c1a9787e19)
 
 
 
